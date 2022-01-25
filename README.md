@@ -1,11 +1,11 @@
-# hanshan-lottery
+# ltj-lottery
 ## 特点
 - 原创开发
 - 中国风十足
 - 绿色应用，开箱即用，暂时没有那么多花里胡哨的项目架构
 
 ## 运行 
-或者直接clone下来,双击打开index.html就可以了
+直接clone下来,双击打开index.html就可以了
 
 ## 抽奖
 1. 运行项目
